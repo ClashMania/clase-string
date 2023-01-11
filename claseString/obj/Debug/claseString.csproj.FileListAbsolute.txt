@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\GabrielCondric\claseString\bin\Debug\claseString.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\claseString\bin\Debug\claseString.exe
+C:\Users\Ucenik\Documents\GabrielCondric\claseString\bin\Debug\claseString.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\claseString\obj\Debug\claseString.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\claseString\obj\Debug\claseString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\claseString\obj\Debug\claseString.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\claseString\obj\Debug\claseString.exe
+C:\Users\Ucenik\Documents\GabrielCondric\claseString\obj\Debug\claseString.pdb
